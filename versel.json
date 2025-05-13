@@ -1,0 +1,11 @@
+{
+  "headers": [
+    {
+      "source": "/",
+      "headers": [
+        { "key": "X-Author", "value": "crash_dari2004" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    }
+  ]
+}
